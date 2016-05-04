@@ -1,2 +1,2 @@
 # scraper
-Cornell course roster scraper.
+Cornell course roster scraper
